@@ -139,7 +139,7 @@
     "karma-rollup-preprocessor": "7.0.7",
     "lockfile-lint": "^4.10.5",
     "nodemon": "^2.0.22",
-    "npm-run-all2": "^6.0.5",
+    "npm-run-all2": "^6.0.6",
     "postcss": "^8.4.24",
     "postcss-cli": "^10.1.0",
     "rollup": "^3.25.3",
